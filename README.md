@@ -1,3 +1,0 @@
-# Homework
-
-A small assignment
